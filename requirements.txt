@@ -1,0 +1,6 @@
+Flask
+pymongo
+dnspython
+
+
+# mogodb password- JFj176FQehi26Gn7
